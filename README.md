@@ -1,7 +1,7 @@
 # LLM-Chatbot
 
 
-#  LLM Chatbot with Streamlit & Ollama
+## LLM Chatbot with Streamlit & Ollama
 
 This is a locally hosted AI chatbot built using [Streamlit](https://streamlit.io/) and powered by Large Language Models (LLMs) via [Ollama](https://ollama.com/). The app allows you to chat with AI, switch between models, and export or clear your chat history — all in a lightweight and responsive web UI.
 
