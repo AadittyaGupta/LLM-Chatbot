@@ -38,7 +38,7 @@ Tokens are the smallest units of text that an LLM processes. For example:
 ## Chatbot UI Preview
 
 <p align="center">
-  <img src="chatbot/chatbot_ui.png" alt="LLM Chatbot Screenshot" width="700"/>
+  <img src="ChatBot/chatbot_ui.png" alt="LLM Chatbot Screenshot" width="600"/>
 </p>
 
 ---
