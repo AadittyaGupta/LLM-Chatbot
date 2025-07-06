@@ -34,10 +34,23 @@ Tokens are the smallest units of text that an LLM processes. For example:
 - Managing tokens keeps responses efficient and within bounds
 
 ---
-## Preview
-![Chatbot UI](ChatBot/chatbot_ui.png)
 
-___
+## Chatbot UI Preview
+
+<p align="center">
+  <img src="chatbot_ui.png" alt="Chatbot Screenshot" width="550"/>
+</p>
+
+---
+
+## Tech Stack
+- **Languages**: Python, HTML/CSS
+- **Framework**: Streamlit
+- **LLM Backend**: Ollama (supports Phi3, Qwen, LLaMA2, etc.)
+- **API Handling**: REST API Integration using `requests` and JSON
+- **UI**: Built with Streamlit Components
+  
+---
 
 ##  Features of This Chatbot
 
@@ -45,5 +58,5 @@ ___
 -  Maintains full **chat history** using `st.session_state`
 -  **Switch between multiple models** (e.g., phi3, qwen)
 -  Customizable **system prompt**
--  **Clear** chat or 💾 **Export** chat history to `.txt`
+-  **Clear** chat or **Export** chat history to `.txt`
 - Refresh available models dynamically
