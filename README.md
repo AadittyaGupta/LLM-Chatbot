@@ -34,6 +34,10 @@ Tokens are the smallest units of text that an LLM processes. For example:
 - Managing tokens keeps responses efficient and within bounds
 
 ---
+## Preview
+![Chatbot UI](ChatBot/chatbot_ui.png)
+
+___
 
 ##  Features of This Chatbot
 
